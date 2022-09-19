@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "duarrrr",
+      "price": "10"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 790
+    },
+    {
+      "title": "gudang",
+      "price": "kamu",
+      "id": 3
+    },
+    {
+      "title": "data",
+      "price": "40",
+      "id": 4
+    },
+    {
+      "title": "perjuangan",
+      "price": "30",
+      "id": 5
+    }
+  ]
+}
